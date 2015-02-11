@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Discover Package: Search Selected",
+        "command": "discover_package_selected"
+    },
+    {
+        "caption": "Discover Package: Search from Input",
+        "command": "discover_package_from_input"
+    }
+]

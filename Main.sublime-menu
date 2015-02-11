@@ -1,0 +1,26 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "t",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Discover Package!",
+                "mnemonic": "D",
+                "id": "discoverpackage",
+                "children":
+                [
+                    {
+                        "caption": "Search Selected",
+                        "command": "discover_package_selected"
+                    },
+                    {
+                        "caption": "Search from Input",
+                        "command": "discover_package_from_input"
+                    }
+                ]
+            }
+        ]
+    }
+]
